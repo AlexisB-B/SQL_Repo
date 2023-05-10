@@ -1,0 +1,18 @@
+SELECT  SUM(amount)	
+FROM payment	
+	
+	
+SELECT  COUNT(rental_id)	
+FROM rental	
+	
+	
+SELECT  COUNT(customer_id)	
+FROM customer	
+	
+	
+SELECT  COUNT(inventory_id)	
+FROM inventory	
+	
+	
+SELECT  COUNT(country_id)	
+FROM country	
