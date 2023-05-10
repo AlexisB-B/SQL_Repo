@@ -1,0 +1,12 @@
+SELECT  CO.country AS Country,				
+COUNT (DISTINCT C.customer_id) AS customers,				
+SUM(P.amount) AS revenue				
+FROM rental R				
+JOIN customer C ON R.customer_id = C.customer_id				
+JOIN address A ON C.address_id = A.address_id				
+JOIN city CI ON A.city_id = CI.city_id				
+JOIN country CO ON CI.country_id = CO.country_id				
+JOIN payment P ON R.rental_id = P.rental_id				
+GROUP BY Country 				
+ORDER BY customers DESC				
+LIMIT 20				
