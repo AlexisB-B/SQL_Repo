@@ -13,4 +13,4 @@ the main questions they’d like to answer:
 ● Do sales figures vary between geographic regions?
 
 ## Rockbuster Charts
-![Relationship between customer count and total revenue by country](https://public.tableau.com/views/RockbusterCustomerCountandPayment/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Relationship between customer count and total revenue by country](https://public.tableau.com/views/RockbusterCustomerCountandPayment/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
