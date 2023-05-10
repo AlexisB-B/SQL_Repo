@@ -14,3 +14,4 @@ the main questions they’d like to answer:
 
 ## Rockbuster Charts
 [Relationship between customer count and total revenue by country](https://public.tableau.com/views/RockbusterCustomerCountandPayment/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Top Grossing Movies](https://public.tableau.com/views/DI3_10_16766561230160/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
